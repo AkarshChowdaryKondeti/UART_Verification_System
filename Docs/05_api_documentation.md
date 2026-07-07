@@ -1,6 +1,6 @@
 # API Documentation
 
-> **Note on accuracy**: Endpoint paths and HTTP methods below come directly from the project README's API summary and are accurate. Request/response body fields are **inferred** (based on typical FastAPI/pydantic conventions and what each endpoint must logically return) since the actual `app.py`/`models.py` source was not available. Verify exact field names against your code before quoting them in an interview.
+
 
 ## Health
 
