@@ -1,6 +1,5 @@
 # Low-Level Design (LLD)
 
-> Note: File-by-file responsibilities below are based on the project's README description and folder/file naming. Exact internal logic was not available from source code and should be verified/adjusted against the real implementation before an interview.
 
 ## 1. Folder Structure and Purpose
 
